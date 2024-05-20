@@ -5,4 +5,4 @@ For this activity, evaluate the situation and offer your suggestions on areas wh
 
 The project was initiated in January 2024 with the aim of delivering a cutting-edge software solution to the clients. However, upon review, several issues appears, including unresolved bugs, incomplete tasks, and a delayed testing process essential for the successesful development. It is evident that these problems happen bacause of inadequate project management practices. Utilizing a project management tool such as Azure or adopting Agile Scrum methodology would provide the necessary framework to guide the development process and ensure the completion of all essential deliverables. and;
 As a software engineer, I am committed to ensuring that my team performs effectively and fulfills their jobs well. Conducting regular meetings for daily updates and progress tracking will be essential to keep everyone aligned and focused on addressing the existing challenges.
-
+  
